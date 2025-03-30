@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "v0.blob.com",
+        hostname: "",
       },
     ],
   },
